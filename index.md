@@ -80,8 +80,9 @@ Two things you want to be careful with on Facebook:
 
 ## Other resources
 
-- Family safe routers. As long as a device is connected to wifi through these routers, they will be more protected. Keep in mind that no filters are perfect, but it does filter most harmful content.
-   - [Circle with Disney](https://smile.amazon.com/Circle-Disney-Parental-Controls-Connected/dp/B019RC1EI8?sa-no-redirect=1)
-   - [KoalaSafe](https://smile.amazon.com/KoalaSafe-Friendly-Wireless-Parental-Technology/dp/B014RVI6EY?sa-no-redirect=1)
+- Home wifi protection. As long as a device is connected to wifi, they will be more protected. Keep in mind that no filters are perfect, but it does filter most harmful content.
+  - [OpenDNS](https://www.opendns.com/home-internet-security/) Recommended by Rob Franklin and he's happy to help ward members set it up.
+  - [Circle with Disney](https://smile.amazon.com/Circle-Disney-Parental-Controls-Connected/dp/B019RC1EI8?sa-no-redirect=1)
+  - [KoalaSafe](https://smile.amazon.com/KoalaSafe-Friendly-Wireless-Parental-Technology/dp/B014RVI6EY?sa-no-redirect=1)
   - [NetAngel](https://www.netangel.com/)
   - [Router Limits](https://routerlimits.com/how-it-works/)
